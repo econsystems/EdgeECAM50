@@ -274,4 +274,4 @@ You have implemented any custom post processing module which you think might hel
 Please go ahead & create a pull request. We will validate the request and merge it.  
 
 ## License
-This code is made available under the Apache 2 license.
+This code is made available under the MIT license.
